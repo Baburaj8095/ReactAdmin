@@ -28,7 +28,7 @@ function App() {
 <Spinner />
 <div className="App">
     <Switch>
-    <Route exact path="/">
+    <Route exact path="/ReactAdmin">
     <AdminNavbar />
        <Dropdown />
     </Route>
