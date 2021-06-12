@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactDashboard/static/css/main.ee6a5c05.chunk.css",
+    "main.js": "/ReactDashboard/static/js/main.2ef6abd3.chunk.js",
+    "main.js.map": "/ReactDashboard/static/js/main.2ef6abd3.chunk.js.map",
+    "runtime-main.js": "/ReactDashboard/static/js/runtime-main.50759d06.js",
+    "runtime-main.js.map": "/ReactDashboard/static/js/runtime-main.50759d06.js.map",
+    "static/css/2.ef8b9bb0.chunk.css": "/ReactDashboard/static/css/2.ef8b9bb0.chunk.css",
+    "static/js/2.b0afb836.chunk.js": "/ReactDashboard/static/js/2.b0afb836.chunk.js",
+    "static/js/2.b0afb836.chunk.js.map": "/ReactDashboard/static/js/2.b0afb836.chunk.js.map",
+    "static/js/3.0bbea5b2.chunk.js": "/ReactDashboard/static/js/3.0bbea5b2.chunk.js",
+    "static/js/3.0bbea5b2.chunk.js.map": "/ReactDashboard/static/js/3.0bbea5b2.chunk.js.map",
+    "index.html": "/ReactDashboard/index.html",
+    "static/css/2.ef8b9bb0.chunk.css.map": "/ReactDashboard/static/css/2.ef8b9bb0.chunk.css.map",
+    "static/css/main.ee6a5c05.chunk.css.map": "/ReactDashboard/static/css/main.ee6a5c05.chunk.css.map",
+    "static/js/2.b0afb836.chunk.js.LICENSE.txt": "/ReactDashboard/static/js/2.b0afb836.chunk.js.LICENSE.txt",
+    "static/media/Icon ionic-md-arrow-dropdown.7fa426ad.svg": "/ReactDashboard/static/media/Icon ionic-md-arrow-dropdown.7fa426ad.svg",
+    "static/media/logo.6ce24c58.svg": "/ReactDashboard/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50759d06.js",
+    "static/css/2.ef8b9bb0.chunk.css",
+    "static/js/2.b0afb836.chunk.js",
+    "static/css/main.ee6a5c05.chunk.css",
+    "static/js/main.2ef6abd3.chunk.js"
+  ]
+}
