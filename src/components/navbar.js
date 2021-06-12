@@ -28,10 +28,10 @@ function Header() {
 
   <Nav
    style={{borderBottom :'1px solid #B2B2B2',     margin: '10px'}}
-   defaultActiveKey="/"
+   defaultActiveKey="ReactAdmin"
 >
   <Nav.Item>
-    <Nav.Link href="/" style={{fontFamily: "Hyundai Sans Head Office"}}>Vertical Dashboard</Nav.Link>
+    <Nav.Link href="ReactAdmin" style={{fontFamily: "Hyundai Sans Head Office"}}>Vertical Dashboard</Nav.Link>
   </Nav.Item>
   <Nav.Item>
     <Nav.Link href="vertical_dashboard"  style={{fontFamily: "Hyundai Sans Head Office"}}>Horizontal Dashboard</Nav.Link>
